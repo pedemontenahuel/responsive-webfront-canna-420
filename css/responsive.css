@@ -1,0 +1,552 @@
+@media (max-width: 1188px){
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    #banner{
+        width:96.5%;
+    }
+
+    .card{
+        width: 17.7%;
+        margin: 1%;
+    }
+
+    #articles{
+        width: 60%;
+    }
+
+#footer .wrap > div{
+    width:22%;
+}
+}
+@media (max-width: 1036px){
+
+    #articles{
+        width: 50%;
+    }
+
+
+#articles article {
+
+    width: 96%;
+
+    }
+
+
+
+#banner h1{
+    width: 100%;
+    font-size: 40px;
+    margin: 28px 40px;
+}
+
+#menu ul li{
+    font-size: 18px;
+}
+.card .icon{
+    font-size:73px;
+}
+.card:hover .icon {
+    font-size: 93px;
+ }
+.card .description{
+    font-size: 11px;
+}
+.card .category{
+    font-size: 14px;
+}
+#footer .wrap > div{
+    width:22%;
+}
+#footer h5{
+    font-size:21px;
+}
+}
+@media (max-width:950px){
+    #articles{
+        width: 55%;
+    }
+
+}
+@media (max-width: 818px){
+    #articles{
+        width: 51%;
+    }
+
+    #footer h5 {
+        font-size: 12px;
+    }
+
+    #footer img{
+        width: 123px;
+    }
+
+    #footer .wrap > div {
+        width: 19.5%;
+        }
+    #footer{
+        padding: 10px;
+    }  
+}
+
+@media (max-width: 866px){
+    #menu ul li{
+        font-size: 16px;
+    }
+
+    #banner h1{
+        font-size: 30px;
+        margin: 35px 97px;
+    }
+
+    .card .category{
+        font-size: 11px;
+        padding: 2px;
+    }
+
+    .card .description{
+        font-size: 10px;
+    }
+
+    #lateral {
+        width: 34%;
+    }
+
+    #login .submit,
+    #login .reset{
+        width: 74px;
+
+    }
+    #login .pass, #login .email{
+        width: 66%;
+    }
+    #lateral .itext{
+        width: 81%;
+    }
+    #login #password{
+        margin-left: 31px;
+    }
+    #login #user, #password{
+        margin-left: 31px;
+    }
+    #footer .wrap > div{
+        width:18.5%;
+    }
+    #social .icon{
+        margin:18px 10px 10px 92px;
+    }
+
+    
+    #footer img{
+        width: 123px;
+    }
+
+    #footer .wrap > div {
+        width: 19.5%;
+        }
+    #footer{
+        padding: 10px;
+    }  
+    #footer h5 {
+        font-size: 12px;
+    }
+
+
+}
+
+@media(max-width: 745px){
+    .card{
+        width: 17.60%;}
+
+        #menu ul li{
+            font-size: 18px;
+        }
+        #logo{
+            width:230px;
+           }
+
+           #logo h3{
+               font-size: 26px;
+               margin-right:45px;
+               margin-top: 12px;
+           }
+
+           #banner h1 {
+            font-size: 26px;
+            margin: 39px 55px;
+        }
+        aside h3{
+            font-size: 23px;
+        }
+        #articles h2{
+            height: 63px;
+            line-height: 68px;
+            font-size: 33px;
+        }
+        #articles article h4 {
+            font-size: 14px;
+        }
+        #login .reset{
+            display: none;
+        }
+
+        #login .submit{
+            margin-left: 59px;
+        }
+
+        .card{
+            height: auto;
+        }
+
+        .card .category{
+            font-size: 14px;
+            margin-top: -23px;
+        }
+
+        .card .description{
+            display: none;
+        }
+
+        #social .overlay{
+            margin-left: 46px;
+        }
+        #social .icon{
+            margin:18px 10px 10px 55px;
+        }
+
+        #articles .data{
+            font-size: 9px;
+            height: 25px;
+        }
+        #articles article p{
+            font-size: 11px;
+            padding: 2px;
+        }
+        
+        #footer img{
+            width: 123px;
+        }
+
+        #footer .wrap > div {
+            width: 19.5%;
+            }
+        #footer{
+            padding: 10px;
+        }  
+
+        #footer iframe{
+            height: 125px;
+        }
+        #footer h5 {
+            font-size: 12px;
+        }
+        }
+
+        @media(max-width: 693px){
+            #header{
+                width: 100%;
+                height:147px;
+                margin-top: -6px;
+
+            }
+
+            #menu{
+                clear: both;
+                float: none;
+                width: 400px;
+                margin: 5px auto;
+                height: auto;
+            }
+            #menu ul li{
+                line-height: 37px;
+            }
+
+            #logo {
+                font-size: 30px;
+                float: none;
+                margin: 6px 0px;
+                margin-left: -29px;
+                width: 475px;
+            }
+            #logo h3 {
+                margin-right: 34px;
+                margin-top: 37px;
+                font-size: 58px;
+                z-index: 1;}
+
+            #logo .weed{
+                position: absolute;
+                margin: 28px 143px;
+                font-size: 65px;
+            }
+            #banner h1{
+                font-size: 22px;}
+
+            #footer img{
+                width: 123px;
+            }
+
+            #footer .wrap > div {
+                width: 19.5%;
+                }
+            #footer{
+                padding: 10px;
+            }    
+        }
+
+        
+@media (max-width: 660px){
+
+    .card:hover .icon {
+        font-size: 85px;
+    }
+
+    #footer .wrap > div {
+        width: 16.5%;
+    }
+    #lateral{
+        min-height: auto;
+        float:none;
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    #articles{
+        float:none;
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    #lateral .itext {
+        width: 92%;
+    }
+
+    #social .icon {
+        margin: 18px 10px 10px 221px;
+    }
+
+    #social .overlay {
+        margin-left: 196px;
+    }
+    #footer{
+        height: auto;
+    }
+
+    #footer .wrap > div {
+        width: 100%;
+        margin: 0px auto;
+        margin-top: 0px;
+        height: auto;
+        }
+
+    #footer img{
+         width: 350px;
+        }
+     #footer iframe{
+        height: 350px;
+        }    
+}        
+
+
+@media(max-width: 607px){
+    #logo{
+        margin-left: -35px;
+    }
+
+    #banner h1{
+        font-size: 22px;
+    }    
+}    
+
+@media(max-width: 552px){
+
+    #banner h1{
+        font-size: 17px;
+    } 
+    .card {
+        width: 17.40%;
+    }
+
+    .card .icon{
+            font-size: 64px;
+        }
+
+    .card:hover .icon {
+        font-size: 68px;
+    }
+
+    #logo .weed {
+        position: absolute;
+        margin: 28px 123px;
+        font-size: 65px;
+    }
+
+    #logo h3 {
+        margin-right: 59px;
+        margin-top: 37px;
+        font-size: 58px;
+        z-index: 1;
+    }
+
+}
+
+@media (max-width:516px){
+
+    .card .icon {
+        font-size: 47px;
+    }
+
+    .card:hover .icon {
+        font-size: 48px;
+    }
+    
+    #lateral{
+        min-height: auto;
+    }
+
+    #lateral .itext {
+        width: 88%;
+    }
+
+    #banner h1{
+        font-size: 17px;
+    } 
+    #logo .weed {
+        position: absolute;
+        margin: 28px 111px;
+        font-size: 65px;
+    }
+
+    #logo h3 {
+        margin-right: 69px;
+        margin-top: 37px;
+        font-size: 58px;
+        z-index: 1;
+    }
+
+    #social .icon {
+        margin: 18px 10px 10px 182px;
+    }
+    .card .category {
+        font-size: 10px;
+        margin-top: -23px;
+        padding: 2px;
+    }
+
+
+
+}
+
+@media (max-width:414px){
+    
+    #social .overlay {
+    margin-left: 103px;
+    }
+    
+    #social .icon {
+    margin: 18px 10px 10px 136px;
+    }
+    
+    #login #user, #password {
+    margin-left: 22px;}
+    
+    
+   #login #password {
+    margin-left: 26px;
+    }
+        
+    #login a {
+    text-decoration: none;
+    color: rgb(37, 108, 55);
+    font-size: 11px;
+    margin: 10px;
+        margin-left: 10px;
+    margin-left: 13px;
+    display: block;
+    transition: all 200ms;
+    }
+        
+    #login .submit {
+    margin-left: 127px;
+    }
+    
+    #banner h1 {
+    font-size: 17px;
+    text-align: center;
+    margin: 44px auto;
+  }
+
+    
+    
+ 
+
+    #lateral .itext {
+        width: 88%;
+    }
+    #logo .weed{
+        margin: 28px 63px;
+        }
+
+    #logo h3 {
+            margin-right: 116px;
+    }
+
+    #menu ul li {
+        font-size: 16px;
+    }
+        
+    #login #user, #password {
+    margin-left: 16px;
+        }
+    #login #password {
+    margin-left: 18px;
+    }
+
+
+}
+@media (max-width:375px){
+
+    #menu ul li {
+        font-size: 15px;
+    }
+    #banner h1 {
+        font-size: 15px;
+    }
+
+    #logo .weed {
+        position: absolute;
+        margin: 29px 45px;
+        font-size: 65px;
+    }
+
+    .card {
+        width: 17.4%;
+    }
+    .card .category {
+        font-size: 10px;
+        margin-top: -23px;
+        padding: 2px;
+    }
+
+    #logo h3 {
+        margin-right: 125px;
+        margin-top: 37px;
+        font-size: 58px;
+        z-index: 1;
+    }
+
+    .card .icon {
+        font-size: 47px;
+    }
+
+    .card:hover .icon {
+        font-size: 48px;
+    }
+
+
+
+    
+
+}
